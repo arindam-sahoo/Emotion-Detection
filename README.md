@@ -45,5 +45,5 @@ The model achieves good performance, as demonstrated by the evaluation metrics a
 
 ## Acknowledgments
 
-- Thanks to Sanskar Hasija for the Dataset. Link to the dataset : https://www.kaggle.com/code/odins0n/emotion-detection
+Thanks to Sanskar Hasija for the Dataset. Link to the dataset: https://www.kaggle.com/code/odins0n/emotion-detection
 
